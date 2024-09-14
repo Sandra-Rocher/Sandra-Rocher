@@ -50,17 +50,17 @@ Here are some ideas to get you started:
 
 <div align="center">
  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git" />&nbsp;
- <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />&nbsp;
- <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />&nbsp;
- <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="45" height="40" />&nbsp;
- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="45" height="40" alt="PHP" />&nbsp;
- <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="bootstrap" />&nbsp;
- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" height="40" alt="NodeJS" />&nbsp;
+ <img src="https://skillicons.dev/icons?i=html" title="HTML" width="40" height="40" alt="HTML5" />&nbsp;
+ <img src="https://skillicons.dev/icons?i=css" title="CSS" width="40" height="40" alt="css" />&nbsp;
+ <img src="https://techstack-generator.vercel.app/js-icon.svg" title="JavaScript" alt="icon" width="45" height="40" />&nbsp;
+ <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" title="PHP" width="45" height="40" alt="PHP" />&nbsp;
+ <img src="https://skillicons.dev/icons?i=bootstrap" title="BootStrap" width="40" height="40" alt="Bootstrap" />&nbsp;
+ <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" title="NodeJS" width="40" height="40" alt="NodeJS" />&nbsp;
  <img src="https://skillicons.dev/icons?i=wordpress" width="40" height="40" alt="WordPress" />&nbsp;
- <img src="https://techstack-generator.vercel.app/mysql-icon.svg" title="MySQL alt="icon" width="40" height="40" />&nbsp;
+ <img src="https://techstack-generator.vercel.app/mysql-icon.svg" title="MySQL" alt="icon" width="40" height="40" />&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="postman" width="40" height="40"/>&nbsp;
  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Symfony-Light.svg" title="Symfony" alt="Symfony" width="40" height="40"/>&nbsp;
- <img src="https://techstack-generator.vercel.app/github-icon.svg" title="Github alt="icon" width="40" height="40" />&nbsp;
+ <img src="https://techstack-generator.vercel.app/github-icon.svg" title="Github" alt="icon" width="40" height="40" />&nbsp;
 </div>
 
 ---
@@ -69,12 +69,12 @@ Here are some ideas to get you started:
   </div>
 
 <div align="center">
- <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="ftrello" alt="trello" width="45" height="45"/>&nbsp;
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VScode" alt="vscode" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="figma" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Trello" alt="trello" width="45" height="45"/>&nbsp;
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" title="Arduino" alt="arduino" width="40" height="40"/> </a> 
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" title="Adobe Illustrator" alt="illustrator" width="40" height="40"/> </a>
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="photoshop" width="40" height="40"/> </a> 
 </div>
 
 ---
