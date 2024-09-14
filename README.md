@@ -51,16 +51,16 @@ Here are some ideas to get you started:
 <div align="center">
  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" title="Git" width="40" height="40" alt="Git" />&nbsp;
  <img src="https://skillicons.dev/icons?i=html" title="HTML" width="40" height="40" alt="HTML5" />&nbsp;
- <img src="https://skillicons.dev/icons?i=css" title="CSS" width="40" height="40" alt="css" />&nbsp;
- <img src="https://techstack-generator.vercel.app/js-icon.svg" title="JavaScript" alt="icon" width="45" height="40" />&nbsp;
+ <img src="https://skillicons.dev/icons?i=css" title="CSS" width="40" height="40" alt="css3" />&nbsp;
+ <img src="https://techstack-generator.vercel.app/js-icon.svg" title="JavaScript" alt="javascript" width="45" height="40" />&nbsp;
  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" title="PHP" width="45" height="40" alt="PHP" />&nbsp;
  <img src="https://skillicons.dev/icons?i=bootstrap" title="BootStrap" width="40" height="40" alt="Bootstrap" />&nbsp;
  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" title="NodeJS" width="40" height="40" alt="NodeJS" />&nbsp;
  <img src="https://skillicons.dev/icons?i=wordpress" title="WordPress" width="40" height="40" alt="WordPress" />&nbsp;
- <img src="https://techstack-generator.vercel.app/mysql-icon.svg" title="MySQL" alt="icon" width="40" height="40" />&nbsp;
+ <img src="https://techstack-generator.vercel.app/mysql-icon.svg" title="MySQL" alt="mySQL" width="40" height="40" />&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="postman" width="40" height="40"/>&nbsp;
  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Symfony-Light.svg" title="Symfony" alt="Symfony" width="40" height="40"/>&nbsp;
- <img src="https://techstack-generator.vercel.app/github-icon.svg" title="Github" alt="icon" width="40" height="40" />&nbsp;
+ <img src="https://techstack-generator.vercel.app/github-icon.svg" title="Github" alt="github" width="40" height="40" />&nbsp;
 </div>
 
 ---
