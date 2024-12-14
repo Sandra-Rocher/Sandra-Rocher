@@ -40,6 +40,10 @@ Here are some ideas to get you started:
 ### I've got a degree in Mobile Web Development (bac+2 level) 🎓, and on my GitHub profile I'd like to take you behind the scenes of the projects I've worked on 💻. 
 ### My code reflects my desire to do well, my seriousness and my thirst for learning new languages. 
 ### <div align="center"> Enjoy your visit! </div>
+### <div align="center"> https://sandrarocher.my.canva.site/ </div>
+### <div align="center"> https://sandra-rocher.github.io/Portfolio-perso/ </div>
+
+
 
 <!-- ### Titulaire d'un diplôme de Développeur Web Mobile (niveau bac+2) 🎓, je vous invite à découvrir, sur mon profil GitHub, l'envers du décor des projets que j'ai réalisés 💻. Mon code reflète mon envie de bien faire, mon sérieux et ma soif d'apprendre de nouveaux langages. Bonne visite !  -->
 
